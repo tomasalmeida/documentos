@@ -4,7 +4,7 @@
 Para seguir manteniendo la función principal de este canal, es imprescindible que los miembros respecten el código de buenas prácticas.
 
 ## General
-* Para discusiones sobre tecnología, utilices el canal más apropiado, este canal no lo es.
+* Para discusiones sobre tecnología, utiliza el canal más apropiado, este canal no lo es.
 * VigoTech no se hace responsable en ningún ambito por las ofertas publicadas.
 * El bullying en cualquier de sus formas está terminamente prohibido.
 * Ten en cuenta que cada miembro de nuestra comunidad es de un perfil distinto, con habilidades distintas. Los comentarios relativos a sueldo o rango salarial  deben tener en cuenta eso y se ruega a que se eviten comentarios que pueden herir a otros miembros.
