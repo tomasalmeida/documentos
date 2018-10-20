@@ -8,7 +8,7 @@ Para seguir manteniendo la función principal de este canal, es imprescindible q
 * VigoTech no se hace responsable en ningún ambito por las ofertas publicadas.
 * El bullying en cualquier de sus formas está terminamente prohibido.
 * Ten en cuenta que cada miembro de nuestra comunidad es de un perfil distinto, con habilidades distintas. Los comentarios relativos a sueldo o rango salarial  deben tener en cuenta eso y se ruega a que se eviten comentarios que pueden herir a otros miembros.
-* Toda discusión se debe hacer en threads, los mensajes al canal principal se deben limitar al máximo posible.
+* Se recomienda el uso de threads como buena práctica, ten en cuenta que los mensajes al canal principal pueden generar notificaciones y ni todas las personas están interesadas en la discusión en una conversación en concreto.
 
 ## Ofertas de empleo
 * Todos los miembros pueden publicar cualquier oferta de trabajo que sea de interés de la comunidad.
